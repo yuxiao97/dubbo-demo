@@ -15,7 +15,6 @@
         <module>demo-api</module>
         <module>dubbo-provider</module>
         <module>dubbo-consumer</module>
-        <module>springnoot-demo</module>
     </modules>
 
     <properties>
@@ -98,13 +97,13 @@
         </dependency>
     </dependencies>
 
-    <!--<build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-    </build>-->
+    </build>
 
 </project>
